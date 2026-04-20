@@ -6,3 +6,8 @@ coverage/
 *.log
 .env*
 !.env.example
+*credencial*.json
+*service-account*.json
+sneeker-guy-v3-*.json
+
+.vercel
