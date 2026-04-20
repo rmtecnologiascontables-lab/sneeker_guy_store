@@ -1,0 +1,6 @@
+{
+  "name": "StockMaster Pro",
+  "description": "Professional inventory management and logistics tracking system with real-time status updates and visual pipeline.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["inventory-tracking", "logistics-pipeline", "data-analytics"]
+}
